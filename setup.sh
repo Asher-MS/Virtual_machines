@@ -2,9 +2,10 @@
 # assumes Bash to be the prefered shell
 
 sudo apt update
-sudo apt install terminator
+
 
 echo "INSTLLATION STARTED"
+sudo apt install terminator
 sudo apt update
 sudo apt install gcc
 sudo apt install g++
